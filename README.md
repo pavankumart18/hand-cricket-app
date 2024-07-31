@@ -2,6 +2,9 @@
 
 This is a hand cricket game built using React Native. The game allows the user to play against the computer by selecting an image representing the score.
 
+You can Install it on Android APk from this link
+https://expo.dev/artifacts/eas/bKWGCNaeDjW7ZZzrGkyT8g.apk
+
 ## Table of Contents
 - [Hand Cricket App](#hand-cricket-app)
   - [Table of Contents](#table-of-contents)
